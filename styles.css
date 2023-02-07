@@ -46,6 +46,8 @@ main {
     overflow-x: hidden;
     padding: 1.125em 1.125em 2.5em 1.125em;
     text-align: center;
+    /* Adding a box-shadow */
+    box-shadow: 0.5em 0.5em 1.75em hsl(220, 15%, 70%);
 }
 
 h1 {
